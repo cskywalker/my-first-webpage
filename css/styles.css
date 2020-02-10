@@ -1,0 +1,27 @@
+body {
+  padding-left: 100px;
+  background-color: #ebebeb;
+}
+h1 {
+  color: #2101321;
+  text-align: center;
+}
+h2 {
+  color: #94ae3f;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+  color: #243754;
+}
+li {
+  color: #243754;
+}
+ul {
+  line-height: 40px;
+}
+a {
+  color: #94ae3f;
+  font-style: italic;
+}
